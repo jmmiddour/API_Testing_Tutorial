@@ -1,5 +1,5 @@
 """
-This file contains ...
+This file contains logic for creating and testing a delete request.
 """
 
 ######################################################################################################################
@@ -8,8 +8,6 @@ This file contains ...
 
 # Imports
 import requests
-import json
-import jsonpath
 
 # Api URL - DELETE Request
 url = 'https://reqres.in/api/users/2'
