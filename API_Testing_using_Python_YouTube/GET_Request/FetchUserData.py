@@ -59,5 +59,3 @@ print(f'Number of pages: {pages[0]}')
 # If True it will just finish with exit code 0, meaning successful,
 #   if False, will throw an AssertionError message
 assert pages[0] == 2
-
-
