@@ -1,0 +1,39 @@
+{
+  "Permanent_Address": {
+    "House_Number": "76",
+    "City": "Jasper",
+    "State": "TN",
+    "Country": "USA",
+    "PhoneNumber": [
+      {
+        "Std_Code": "1",
+        "Home": "3865555555",
+        "Mobile": "4075555555"
+      },
+      {
+        "Std_Code": "sample1",
+        "Home": "sample2",
+        "Mobile": "sample3"
+      }
+    ]
+  },
+  "Current_Address": {
+    "House_Number": "76",
+    "City": "Jasper",
+    "State":  "TN",
+    "Country": "USA",
+    "PhoneNumber": [
+      {
+        "Std_Code": "1",
+        "Home": "3865555555",
+        "Mobile": "4075555555"
+      },
+      {
+        "Std_Code": "sample1",
+        "Home": "sample2",
+        "Mobile": "sample3"
+      }
+    ]
+  },
+  "st_id": 220933
+}
