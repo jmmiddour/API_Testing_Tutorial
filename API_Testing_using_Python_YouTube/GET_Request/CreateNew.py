@@ -11,7 +11,7 @@ import requests
 import json
 import jsonpath
 
-# Api URL - DELETE Request
+# Api URL - POST Request
 url = 'https://reqres.in/api/users'
 
 # Open the json file - need to use .. in front of / because I am going
