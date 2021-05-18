@@ -16,9 +16,9 @@ url = 'https://reqres.in/api/users'
 
 
 def test_create_new():
-    # Open the json file - need to use .. in front of / because I am going
+    # Open the json file - need to use ./. in front of / because I am going
     #   one directory up from the current directory
-    file = open('../CreateUser.json', 'r')
+    file = open('././CreateUser.json', 'r')
 
     # Read in the json file - returns a string
     json_in = file.read()
