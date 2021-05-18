@@ -112,9 +112,11 @@ Happy Learning!
 
 ## My Notes:
 
+- A "DELETE" request is used for deleting a resource from the server.
+
 - Notes are in the `DeleteUser.py` file under the divider for "Video 3 Code and Notes"
 
-- First have to import `requests`, `json`, and `jsonpath`
+- First have to import `requests`
 
 - Need the API url for the Delete Request
 
