@@ -15,4 +15,11 @@
     <orderEntry type="jdk" jdkName="Python 3.8 (API_Testing_Tutorial)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/Unit_Testing_your_Code_YouTube" />
+      </list>
+    </option>
+  </component>
 </module>
